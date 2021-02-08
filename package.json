@@ -1,0 +1,14 @@
+{
+  "name": "strawberrydonut-rpc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "pikokr <parangee9706@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord-rpc": "discordjs/rpc"
+  },
+  "devDependencies": {
+    "@types/discord-rpc": "^3.0.4",
+    "@types/node": "^14.14.25"
+  }
+}
